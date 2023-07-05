@@ -1,7 +1,7 @@
 {
   "name": "nestjs-dev-utilities",
   "description": "NestJs utilities for development",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "author": "Louis Loo <louiskhenghao@gmail.com> (https://github.com/louiskhenghao)",
   "homepage": "https://github.com/louiskhenghao/nestjs-dev-utilities#readme",

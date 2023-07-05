@@ -18,8 +18,7 @@ module.exports = {
      * For monorepo
      * https://github.com/typescript-eslint/typescript-eslint/blob/master/docs/getting-started/linting/MONOREPO.md
      */
-    tsconfigRootDir: __dirname,
-    project: ["tsconfig.json"]
+    tsconfigRootDir: __dirname
   },
   plugins: ["@typescript-eslint"],
   extends: [

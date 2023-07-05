@@ -26,7 +26,6 @@ export const IpAddress = createParamDecorator(
       // get gql execution context
       const ctx = GqlExecutionContext.create(context);
       req = ctx.getContext().req;
-      return ctx.getContext().req.ip;
     }
     return requestIp.getClientIp(req);
   }
